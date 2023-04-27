@@ -1,0 +1,5 @@
+com\hrsociety\apiSociety\service\EmployeeService.class
+com\hrsociety\apiSociety\repository\EmployeeRepository.class
+com\hrsociety\apiSociety\ApiSocietyApplication.class
+com\hrsociety\apiSociety\controller\EmployeeController.class
+com\hrsociety\apiSociety\model\Employee.class
